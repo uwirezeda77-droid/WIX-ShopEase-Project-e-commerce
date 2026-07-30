@@ -61,7 +61,7 @@ The website allows visitors to browse products across multiple categories (Elect
 
 🔗 https://uwirezeda77.wixsite.com/shopease
 
-
+https://github.com/uwirezeda77-droid/WIX-ShopEase-Project-e-commerce/tree/main
 
 ## Project Structure
 
